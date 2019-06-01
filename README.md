@@ -51,7 +51,7 @@ Go the the configuration area in `generator.py` (on the top of the file)
 
 Enter the phonemes of the language you want to generate in the `sounds` variable like this:
 
-`"{group letter}": "{phonemes seperated by a .}"`
+`"{group letter}": "{phonemes seperated by a dot}"`
 
 **Important**: The group letter must be only one letter
 
