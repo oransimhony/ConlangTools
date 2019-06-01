@@ -9,7 +9,7 @@ Some tools to help oneself while conlanging
 
 # Generator
 
-Generates texts based on phoneme inventory, syllable structure, syllable length and more.
+Generate a text using your language phonemes and syllable structure in order to get a feel for how it looks.
 
 ## Generator Example
 
@@ -63,6 +63,8 @@ Decide on the number of words you want to have in your text and enter it in `num
 
 And last but not least, enter the minimum and maximum number of words in `min_number_of_words_per_sentence` and `max_number_of_words_per_sentence`
 accordingly
+
+Example given below ↓
 
 ```python
 # Configuration Area
